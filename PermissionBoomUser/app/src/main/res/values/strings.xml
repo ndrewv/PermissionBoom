@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Permission Boom User</string>
+    <string name="dangerous_action_button_string">Detonate</string>
+</resources>
